@@ -1,10 +1,11 @@
 <h1 align="center">Angelo Piedra | Computer Engineer</h1>
-
-<br>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=4F46E5&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+@+TEC;Backend+Developer;Algorithm+Enthusiast;Building+Scalable+Systems" />
+  </a>
+</p>
 
 ---
-
-<br>
 
 ### 👨‍💻 About Me
 
@@ -14,11 +15,7 @@
 - 💡 Hands-on experience in complex logic creation, distributed databases, and version control.
 - 📈 Agile methodology practitioner, holding the **Scrum Fundamentals Certified (SFC)** credential.
 
-<br>
-
 ---
-
-<br>
 
 ### 💻 Tech Stack
 
@@ -58,11 +55,8 @@
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![GTK](https://img.shields.io/badge/GTK-7FE719?style=for-the-badge&logo=GTK&logoColor=white)
 
-<br>
-
 ---
 
-<br>
 
 ### 📊 GitHub Stats
 
@@ -74,11 +68,8 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=StevenXoFk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
-<br>
-
 ---
 
-<br>
 
 ### 📫 Let's Connect
 
