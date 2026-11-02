@@ -81,18 +81,6 @@
 
 <br>
 
-### 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=StevenXoFk&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
-
-<br>
-
----
-
-<br>
-
 ### 📫 Let's Connect
 
 <p align="center">
