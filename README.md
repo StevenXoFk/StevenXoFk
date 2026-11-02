@@ -13,7 +13,6 @@
 - 🏆 Active participant in **ICPC** competitions and university **hackathons**, developing adaptability, teamwork, and the ability to deliver results under pressure.
 - 💡 Hands-on experience in complex logic creation, distributed databases, and version control.
 - 📈 Agile methodology practitioner, holding the **Scrum Fundamentals Certified (SFC)** credential.
-- 🤝 Supporting the university community as a student mentor in the IntegraTEC program.
 
 <br>
 
