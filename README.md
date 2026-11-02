@@ -1,22 +1,25 @@
 <h1 align="center">Angelo Piedra | Computer Engineer</h1>
 
-<p align="center">
-  <a href="https://linkedin.com/in/steven-piedra-castro" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/@steven.lmao" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
+<br>
+
+---
+
+<br>
 
 ### 👨‍💻 About Me
 
-- 🎓 **Computer Engineering** student at Tecnológico de Costa Rica.
+- 🎓 **Computer Engineering** student at [**Tecnológico de Costa Rica (TEC)**](https://www.tec.ac.cr/).
 - ⚙️ Strong focus on **backend development**, system architecture, and algorithmic problem-solving.
 - 🏆 Active participant in **ICPC** competitions and university **hackathons**, developing adaptability, teamwork, and the ability to deliver results under pressure.
 - 💡 Hands-on experience in complex logic creation, distributed databases, and version control.
 - 📈 Agile methodology practitioner, holding the **Scrum Fundamentals Certified (SFC)** credential.
 - 🤝 Supporting the university community as a student mentor in the IntegraTEC program.
+
+<br>
+
+---
+
+<br>
 
 ### 💻 Tech Stack
 
@@ -56,6 +59,12 @@
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![GTK](https://img.shields.io/badge/GTK-7FE719?style=for-the-badge&logo=GTK&logoColor=white)
 
+<br>
+
+---
+
+<br>
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -64,4 +73,33 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=StevenXoFk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+<br>
+
+---
+
+<br>
+
+### 🔝 Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=StevenXoFk&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</p>
+
+<br>
+
+---
+
+<br>
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/steven-piedra-castro" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/@steven.lmao" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
