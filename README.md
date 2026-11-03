@@ -1,8 +1,8 @@
-<p align="center">
+<h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=4F46E5&center=true&vCenter=true&width=600&lines=Angelo Piedra;Computer Engineer;Backend+Developer;Algorithm+Enthusiast;Building+Scalable+Systems" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=4F46E5&center=true&vCenter=true&width=600&lines=Angelo+Piedra;Computer+Engineer;Backend+Developer;Algorithm+Enthusiast;Building+Scalable+Systems" />
   </a>
-</p>
+</h1>
 
 ---
 
